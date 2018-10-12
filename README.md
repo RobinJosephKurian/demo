@@ -1,4 +1,4 @@
-## Try it
+## Try it yourself
 
 [https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
 
